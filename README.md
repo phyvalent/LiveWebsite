@@ -1,3 +1,2 @@
 # TestSite
-Experimentation Website
-This is the source code and resource for my website dinabandhukhatiwada.com.np
+This repo contains the source code and resources on my website dinabandhukhatiwada.com.np
